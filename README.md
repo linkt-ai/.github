@@ -1,4 +1,4 @@
-# Welcome to Linkt AI
+# Welcome to Linkt
 
 We are a dynamic team of developers passionate about leveraging the power of AI to shape the future. Our mission is to ensure that the advancements in AI benefit everyone.
 
