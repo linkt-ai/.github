@@ -14,4 +14,4 @@ We'd love to hear from you! If you have any questions, ideas, or partnership opp
 
 - Email: info@linkt.ai
 - Website: [linkt.ai](https://linkt.ai)
-- Twitter: [@linktai](https://twitter.com/linktai)
+- Twitter: [@linktai](https://twitter.com/_linktai)
