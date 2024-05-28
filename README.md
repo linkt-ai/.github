@@ -1,4 +1,4 @@
-Hi there! We're Linkt.
+# Hi there! We're Linkt.
 We are a dynamic team of developers driven by the incredible potential of AI to shape the future.
 Our mission is to ensure this change is beneficial to all.
 Contact Us
