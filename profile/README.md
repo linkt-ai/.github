@@ -15,3 +15,5 @@ We'd love to hear from you! If you have any questions, ideas, or partnership opp
 - Email: info@linkt.ai
 - Website: [linkt.ai](https://linkt.ai)
 - X: [@linktai](https://twitter.com/_linktai)
+
+## Let's make a dent in the universe ✨
