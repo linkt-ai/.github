@@ -1,8 +1,17 @@
-# Hi there! We're Linkt.
-We are a dynamic team of developers driven by the incredible potential of AI to shape the future.
-Our mission is to ensure this change is beneficial to all.
-Contact Us
-Have an idea or want to know more? We'd love to hear from you!
+# Welcome to Linkt AI
 
-Email: info@linkt.ai
-Website: linkt.ai
+We are a dynamic team of developers passionate about leveraging the power of AI to shape the future. Our mission is to ensure that the advancements in AI benefit everyone.
+
+## Our Focus Areas
+
+- Developing innovative AI solutions
+- Collaborating with industry partners
+- Conducting research to push the boundaries of AI
+
+## Get in Touch
+
+We'd love to hear from you! If you have any questions, ideas, or partnership opportunities, feel free to reach out to us.
+
+- Email: info@linkt.ai
+- Website: [linkt.ai](https://linkt.ai)
+- Twitter: [@linktai](https://twitter.com/linktai)
