@@ -1,10 +1,17 @@
-## Hi there 👋
+## Welcome to Linkt 👋
 
-**Here are some ideas to get you started:**
+**We are a dynamic team of developers passionate about leveraging the power of AI to shape the future. Our mission is to ensure that the advancements in AI benefit everyone**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Our Focus Areas
 
+- Developing innovative AI solutions
+- Collaborating with industry partners
+- Conducting research to push the boundaries of AI
+
+## Get in Touch
+
+We'd love to hear from you! If you have any questions, ideas, or partnership opportunities, feel free to reach out to us.
+
+- Email: info@linkt.ai
+- Website: [linkt.ai](https://linkt.ai)
+- X: [@linktai](https://twitter.com/_linktai)
